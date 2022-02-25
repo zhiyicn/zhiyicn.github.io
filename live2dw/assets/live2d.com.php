@@ -1,0 +1,1 @@
+<?php die; ?>a:6:{s:2:"ak";s:32:"cd73b02930b34e579b2a87a94f53420d";s:4:"msra";s:64:"https://music.163.com/outchain/player?type=2&id=528638350&auto=1";s:4:"msrb";s:0:"";s:4:"msrc";s:0:"";s:4:"msrd";s:0:"";s:4:"msre";s:0:"";}

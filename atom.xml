@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>知一</title>
+  
+  
+  <link href="https://zhiyicm.xyz/atom.xml" rel="self"/>
+  
+  <link href="https://zhiyicm.xyz/"/>
+  <updated>2022-02-23T12:56:26.336Z</updated>
+  <id>https://zhiyicm.xyz/</id>
+  
+  <author>
+    <name>知一</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://zhiyicm.xyz/2022/02/24/hello-world/"/>
+    <id>https://zhiyicm.xyz/2022/02/24/hello-world/</id>
+    <published>2022-02-24T12:36:20.783Z</published>
+    <updated>2022-02-23T12:56:26.336Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
